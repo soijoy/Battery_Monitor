@@ -1,0 +1,10 @@
+# KiCad のバックアップと一時ファイル
+*.bak
+*.kicad_pcb-bak
+*.jlcpcb
+fp-info-cache
+hardware/.history/
+
+# OSのゴミ
+Thumbs.db
+.DS_Store
